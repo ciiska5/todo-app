@@ -44,7 +44,7 @@
 
 ## Схема базы данных
 
-![todoapp_DB_scheme](https://github.com/ciiska5/todo-app/todo_app_diagram.png)
+![todoapp_DB_scheme](todo_app_diagram.png)
 
 Она состоит из 5 таблиц:
 | Название таблицы | Описание |
